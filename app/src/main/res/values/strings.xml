@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas5_RecycleView</string>
+    <string-array name="cuaca">
+        <item>Badai</item>
+        <item>Awan</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>27-C</item>
+        <item>27-C</item>
+    </string-array>
+</resources>
